@@ -16,4 +16,5 @@ export default [
   {type: 'text', author: "me", data: { text: "No forget the story. "} },
   {type: 'text', author: "them", data: { text: "You've got to have a story."} },
   {type: 'emoji', author: "me", data: { emoji: "😋"} },
+  {type: 'text', author: "them", data: { text: "You've got to have a story.", date: "Tue, 25 Jul 2017 22:53:41 GMT" }}
 ]

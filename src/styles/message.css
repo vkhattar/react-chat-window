@@ -40,6 +40,13 @@
   -webkit-font-smoothing: subpixel-antialiased
 }
 
+.sc-message--date {
+  font-size: 10px;
+  color: #969494;
+  padding: 3px 0px 0px 10px;
+}
+
+
 .sc-message--content.sent .sc-message--text {
   color: white;
   background-color: #4e8cff;
